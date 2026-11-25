@@ -4,11 +4,11 @@
 Pure standard library, no network. Writes the line to /output/entry.txt
 and prints it to stdout.
 
-The joke treats the alarm clock as a grumpy neighbour: instead of
-ringing, it serves the sleeper's dreams with a formal noise complaint.
-Dreams are the loud tenants, Monday is the killjoy next door, and the
-punchline lands because a complaint is the most Monday thing of all —
-paperwork before coffee.
+Why this joke works: an alarm clock is a machine that shouts, so giving
+it a quiet civil-service job instead — serving formal paperwork on the
+sleeper's dreams — flips the expected noise into silence. The dreams
+become noisy tenants, Monday becomes the neighbour who complains in
+writing, and the whole week starts with a form to fill in before coffee.
 """
 
 import os
